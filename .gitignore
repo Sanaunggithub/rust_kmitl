@@ -1,0 +1,13 @@
+*.exe
+*.lock
+*.toml
+*.png
+*.jpg
+*.pdb
+*.md
+*.txt
+*.json
+tic_tac_toe/
+target/
+debug/
+Rust Final Project/
